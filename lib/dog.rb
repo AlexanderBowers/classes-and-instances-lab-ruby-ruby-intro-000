@@ -1,5 +1,6 @@
 class Dog
-fido = "hi"
-snoopy = "hi"
-lassie =  "hi"
+
 end
+
+fido = Dog.new
+snoopy = Dog.new
