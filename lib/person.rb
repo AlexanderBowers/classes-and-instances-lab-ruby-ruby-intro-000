@@ -1,4 +1,4 @@
 class person
-adele_goldberg
+adele_goldberg = "hi"
 alan_kay = "hi"
 end
