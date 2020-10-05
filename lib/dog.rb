@@ -1,5 +1,5 @@
 class Dog
 fido = "hi"
 snoopy = "hi"
-lassie "hi"
+lassie =  "hi"
 end
